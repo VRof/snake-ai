@@ -5,6 +5,11 @@ A high-performance Snake game AI that uses Deep Q-Learning (DQN) to train an int
 ![Snake AI Demo](https://img.shields.io/badge/AI-Deep%20Q--Learning-blue) ![Python](https://img.shields.io/badge/Python-3.8+-green) ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 
 ![](https://github.com/VRof/snake-ai/blob/main/demo.gif)
+
+## 📺 YouTube Demo
+
+[Watch On YouTube](https://www.youtube.com/watch?v=ZLUIE2cbBAw)
+
 ## 🎮 Features
 
 - **Multi-Game Training**: 13 parallel Snake games running simultaneously

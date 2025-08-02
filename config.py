@@ -1,0 +1,10 @@
+# Game constants
+GRID_SIZE = 20
+GRID_WIDTH = 15
+GRID_HEIGHT = 15
+NUM_PARALLEL_GAMES = 13  # 1 main + 12 side games
+WINDOW_WIDTH = 1300
+WINDOW_HEIGHT = 750
+
+# Directions
+UP, RIGHT, DOWN, LEFT = 0, 1, 2, 3

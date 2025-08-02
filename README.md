@@ -1,6 +1,9 @@
 # Snake AI - Deep Q-Network Implementation
 
-A high-performance Snake game AI that uses Deep Q-Learning (DQN) to train an intelligent agent. The project features parallel game training with real-time visualization of 13 simultaneous games.![Snake AI Demo](https://img.shields.io/badge/AI-Deep%20Q--Learning-blue) ![Python](https://img.shields.io/badge/Python-3.8+-green) ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+A high-performance Snake game AI that uses Deep Q-Learning (DQN) to train an intelligent agent. The project features parallel game training with real-time visualization of 13 simultaneous games.
+
+![Snake AI Demo](https://img.shields.io/badge/AI-Deep%20Q--Learning-blue) ![Python](https://img.shields.io/badge/Python-3.8+-green) ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+
 ![](https://github.com/VRof/snake-ai/blob/main/demo.gif)
 ## 🎮 Features
 

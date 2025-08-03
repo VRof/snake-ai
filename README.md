@@ -36,9 +36,15 @@ cd snake-ai
 2. **Create a virtual environment** (recommended)
 ```bash
 python -m venv snake_ai_env
-source snake_ai_env/bin/activate  # On Windows: snake_ai_env\Scripts\activate
 ```
-
+Linux/MacOS:
+```bash
+source snake_ai_env/bin/activate
+```
+Windows:
+```bash
+snake_ai_env\Scripts\activate
+```
 3. **Install dependencies**
 ```bash
 pip install tensorflow numpy pygame

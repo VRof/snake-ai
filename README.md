@@ -53,7 +53,7 @@ python main.py
 
 ```
 snake-ai/
-├── main.py          # Main application entry point
+├── main.py
 ├── agent.py         # DQN Agent implementation
 ├── game.py          # Snake game logic
 ├── config.py        # Game configuration constants
